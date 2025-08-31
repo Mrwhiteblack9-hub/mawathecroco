@@ -5,7 +5,7 @@ export default function Header({ lang, nav, buy_url }){
     <header className="w-full border-b border-white/10 bg-mawa-bg/80 backdrop-blur-sm sticky top-0 z-40">
       <div className="container py-4 flex items-center justify-between">
         <Link href={`/${lang}`} className="flex items-center gap-3">
-          <img src="/logo.jpg" alt="MAWA Logo" className="w-10 h-10 rounded-full"/>
+          <img src="/logo.png" alt="MAWA Logo" className="w-10 h-10 rounded-full"/>
           <span className="font-semibold text-xl">MAWA</span>
         </Link>
         <nav className="hidden md:flex gap-6 items-center text-sm">
