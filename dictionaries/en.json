@@ -1,0 +1,83 @@
+{
+  "buy_url": "https://jup.ag/swap/SOL-MAWA",
+  "social": {
+    "telegram": "https://t.me/mawasolana",
+    "x": "https://x.com/Mawathecroco"
+  },
+  "nav": {
+    "features": "AI Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "buy": "Buy $MAWA"
+  },
+  "hero": {
+    "tag": "The First Living AI Bot for Communities",
+    "title": "MAWA — AI, Interaction, Community",
+    "description": "MAWA merges a next-gen AI community manager with a robust token ecosystem on Solana. More than a bot, a true AI member.",
+    "buy_btn": "Buy on Jupiter",
+    "tokenomics_btn": "Tokenomics",
+    "contract": "SPL Contract"
+  },
+  "vision": {
+    "title": "Our Vision: From Scripts to Soul",
+    "text": "Today's communities grow fast, but their bots stay cold and scripted. MAWA changes everything by blending human warmth with AI intelligence. It speaks, jokes, moderates, and adapts, becoming the living soul of your group, powered by the $MAWA token."
+  },
+  "ai_features": {
+    "title": "MAWA AI Core Features",
+    "features": [
+      { "emoji": "🛡️", "title": "Smart Moderation", "desc": "Proactively handles spam, scams, and toxic behavior to keep communities safe." },
+      { "emoji": "🎉", "title": "Automatic Engagement", "desc": "Keeps chats alive with contextual memes, polls, quizzes, and fun replies." },
+      { "emoji": "🎭", "title": "Adaptive Personality", "desc": "Speaks the language of your community, from crypto degens to professional gamers." },
+      { "emoji": "🔊", "title": "Voice Interaction", "desc": "Talk to MAWA in real-time in voice channels, just like another member of the group." }
+    ]
+  },
+  "tokenomics": {
+    "title": "The $MAWA Ecosystem Token",
+    "distribution": {
+      "title": "Distribution",
+      "items": [
+        { "label": "Liquidity Pool (DEX)", "value": "78%" },
+        { "label": "Vested Team/Advisors", "value": "2%" },
+        { "label": "Ecosystem & Marketing", "value": "20%" }
+      ]
+    },
+    "parameters": {
+      "title": "Token Parameters",
+      "items": [
+        { "label": "Total Supply", "value": "1,000,000,000" },
+        { "label": "LP Lock", "value": "12 Months" },
+        { "label": "Tax", "value": "2%" },
+        { "label": "Utility", "value": "Payments, Staking, Governance" }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "Our Combined Roadmap",
+    "phases": [
+      { "phase": "Phase 1: Foundation", "status": "COMPLETED", "desc": "Premium branding, website launch, and initial community building." },
+      { "phase": "Phase 2: AI Prototype & Growth", "status": "IN PROGRESS", "desc": "Launch basic AI bot for pilot testing; expand social engagement." },
+      { "phase": "Phase 3: Token Launch & Utility", "status": "PLANNED", "date": "2025-09-13", "desc": "Official $MAWA launch on Jupiter; integrate token for payments and premium features." },
+      { "phase": "Phase 4: Full AI & DEX Expansion", "status": "PLANNED", "desc": "Launch advanced multi-platform AI (Telegram/Discord); list on major DEXs." },
+      { "phase": "Phase 5: CEX & Ecosystem", "status": "PLANNED", "desc": "Pursue CEX listings and develop the ecosystem with rewards, NFTs, and merch." }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      { "q": "Is MAWA an AI project or a memecoin?", "a": "Both. MAWA is fundamentally an AI technology project. The $MAWA token is the utility and governance token that powers its ecosystem, giving it the vibrant energy of a memecoin community." },
+      { "q": "What does the AI bot actually do?", "a": "MAWA acts as a community manager. It automates moderation, creates engagement (memes, polls), adapts its personality to your group, and can even join voice chats." },
+      { "q": "Why a crocodile mascot?", "a": "Crocodiles symbolize resilience, patience, and strength—qualities that reflect our long-term vision for building a lasting and powerful project." },
+      { "q": "What is the utility of the $MAWA token?", "a": "The token will be used for paying for premium bot features, staking to unlock exclusive AI personalities, and participating in governance decisions for the project's future." },
+      { "q": "Is liquidity locked?", "a": "Yes, the liquidity pool will be locked for 12 months upon launch to ensure trust and stability for the community." }
+    ]
+  },
+  "how_to_buy": {
+    "title": "How to Buy $MAWA",
+    "steps": [
+      "Install a Solana wallet (e.g., Phantom).",
+      "Fund your wallet with SOL.",
+      "Connect to Jupiter Aggregator and swap SOL for $MAWA."
+    ],
+    "link_text": "Buy on Jupiter"
+  }
+}

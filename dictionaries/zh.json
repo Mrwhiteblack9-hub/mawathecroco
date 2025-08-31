@@ -1,0 +1,83 @@
+{
+  "buy_url": "https://jup.ag/swap/SOL-MAWA",
+  "social": {
+    "telegram": "https://t.me/mawasolana",
+    "x": "https://x.com/Mawathecroco"
+  },
+  "nav": {
+    "features": "AI 功能",
+    "tokenomics": "代币经济学",
+    "roadmap": "路线图",
+    "buy": "购买 $MAWA"
+  },
+  "hero": {
+    "tag": "首个为社区打造的活性 AI 机器人",
+    "title": "MAWA — AI、互动、社区",
+    "description": "MAWA 将下一代 AI 社区管理器与 Solana 上强大的代币生态系统相结合。它不只是一个机器人，更是一个真正的 AI 成员。",
+    "buy_btn": "在 Jupiter 上购买",
+    "tokenomics_btn": "代币经济学",
+    "contract": "SPL 合约"
+  },
+  "vision": {
+    "title": "我们的愿景：从脚本到灵魂",
+    "text": "当今社区发展迅速，但它们的机器人却冰冷且脚本化。MAWA 融合了人性的温暖与人工智能，改变了这一切。它会说话、开玩笑、管理并适应环境，成为您群组的活灵魂，并由 $MAWA 代币驱动。"
+  },
+  "ai_features": {
+    "title": "MAWA AI 核心功能",
+    "features": [
+      { "emoji": "🛡️", "title": "智能管理", "desc": "主动处理垃圾信息、诈骗和不良行为，保护社区安全。" },
+      { "emoji": "🎉", "title": "自动互动", "desc": "通过情景化的表情包、投票、测验和有趣的回复保持聊天活跃。" },
+      { "emoji": "🎭", "title": "自适应个性", "desc": "无论是加密货币爱好者还是专业游戏玩家，它都能使用您的社区语言进行交流。" },
+      { "emoji": "🔊", "title": "语音互动", "desc": "在语音频道中与 MAWA 实时交谈，就像与群组中的另一位成员一样。" }
+    ]
+  },
+  "tokenomics": {
+    "title": "$MAWA 生态系统代币",
+    "distribution": {
+      "title": "分配",
+      "items": [
+        { "label": "流动性池 (DEX)", "value": "78%" },
+        { "label": "团队/顾问 (归属)", "value": "2%" },
+        { "label": "生态系统与营销", "value": "20%" }
+      ]
+    },
+    "parameters": {
+      "title": "代币参数",
+      "items": [
+        { "label": "总供应量", "value": "1,000,000,000" },
+        { "label": "流动性锁定", "value": "12 个月" },
+        { "label": "税费", "value": "2%" },
+        { "label": "用途", "value": "支付、质押、治理" }
+      ]
+    }
+  },
+  "roadmap": {
+    "title": "我们的综合路线图",
+    "phases": [
+      { "phase": "第一阶段：奠基", "status": "已完成", "desc": "高端品牌建设、网站上线及初始社区建立。" },
+      { "phase": "第二阶段：AI 原型与增长", "status": "进行中", "desc": "推出基础 AI 机器人进行试点测试；扩大社交互动。" },
+      { "phase": "第三阶段：代币发行与功能集成", "status": "计划中", "date": "2025-09-13", "desc": "在 Jupiter 上正式发行 $MAWA；集成代币用于支付和高级功能。" },
+      { "phase": "第四阶段：全面 AI 与 DEX 扩展", "status": "计划中", "desc": "推出先进的多平台 AI (Telegram/Discord)；在主流 DEX 上市。" },
+      { "phase": "第五阶段：CEX 与生态系统", "status": "计划中", "desc": "寻求 CEX 上市，并通过奖励、NFT 和商品发展生态系统。" }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      { "q": "MAWA 是一个 AI 项目还是一个 Memecoin？", "a": "两者都是。MAWA 本质上是一个 AI 技术项目。$MAWA 代币是驱动其生态系统的实用和治理代币，赋予了它 Memecoin 社区的活力。" },
+      { "q": "这个 AI 机器人具体做什么？", "a": "MAWA 扮演社区管理者的角色。它能自动进行管理、创造互动（表情包、投票）、根据您的群组调整其个性，甚至可以加入语音聊天。" },
+      { "q": "为什么选择鳄鱼作为吉祥物？", "a": "鳄鱼象征着韧性、耐心和力量——这些品质反映了我们建立一个持久而强大项目的长期愿景。" },
+      { "q": "$MAWA 代币有什么用途？", "a": "该代币将用于支付高级机器人功能、通过质押解锁独家 AI 个性，以及参与项目未来的治理决策。" },
+      { "q": "流动性是否被锁定？", "a": "是的，流动性池将在启动时锁定 12 个月，以确保社区的信任和稳定。" }
+    ]
+  },
+  "how_to_buy": {
+    "title": "如何购买 $MAWA",
+    "steps": [
+      "安装一个 Solana 钱包（例如 Phantom）。",
+      "向您的钱包充值 SOL。",
+      "连接到 Jupiter 聚合器，将 SOL 兑换成 $MAWA。"
+    ],
+    "link_text": "在 Jupiter 上购买"
+  }
+}
